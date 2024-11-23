@@ -1,6 +1,4 @@
 {
- "name": "Play Soccer",
- "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +37,8 @@
   }
  ],
  "theme_color": "#FFFFFF",
+ "name": "Play Soccer",
  "display": "fullscreen",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
 }
